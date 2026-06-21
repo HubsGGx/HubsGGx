@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>hubsqwGG</h1>
+  <h1>HubsGGx</h1>
   <p><strong>Engenheiro de Software | Especialista em Automação | Fundador da hubsdev.com</strong></p>
 </div>
 
@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/hubsqwGG">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Especialista+em+Bots+e+Automação;Fundador+da+hubsdev.com;Integração+de+Inteligência+Artificial" alt="Typing SVG" />
+  <a href="https://github.com/HubsGGx">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Especialista+em+Bots+e+Automação;Fundador+da+fluxdevservice.com;Integração+de+Inteligência+Artificial" alt="Typing SVG" />
   </a>
 </div>
 
@@ -78,13 +78,13 @@ Minha atuação profissional se divide em pilares estratégicos, onde aplico eng
 Estou sempre aberto a discutir arquitetura de software, novas integrações de IA ou oportunidades de colaboração.
 
 <div align="center">
-  <a href="https://github.com/hubsqwGG">
+  <a href="https://github.com/HubsGGx">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://hubsdev.com">
+  <a href="https://fluxdevservice.com">
     <img src="https://img.shields.io/badge/Website-hubsdev.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://t.me/hubsqwGG">
+  <a href="https://t.me/hubsGG">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbBrKgsICVfjppY96P40">
@@ -95,5 +95,5 @@ Estou sempre aberto a discutir arquitetura de software, novas integrações de I
 <br>
 
 <div align="center">
-  <small><i>Arquitetado e mantido por hubsqwGG</i></small>
+  <small><i>Arquitetado e mantido por HubsGGx</i></small>
 </div>
