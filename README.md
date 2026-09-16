@@ -64,7 +64,17 @@ Também desenvolvo projetos voltados para Free Fire, Unlock ALL e APIs para devs
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HubsGGx/HubsGGx/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/HubsGGx/HubsGGx/output/snake.svg" alt="snake" width="820" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 </div>
